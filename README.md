@@ -1,4 +1,4 @@
-# Hi there! I'm Farabi Ahmed Shakil 👋
+# Hi there! I'm Farabi 👋
 
 I am a **Medical Technologist (Radiology & Imaging)** by profession and a **passionate developer** by curiosity. I love exploring the intersection of healthcare, decentralized technologies (Web3), and digital storytelling.
 
