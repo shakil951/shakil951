@@ -1,6 +1,6 @@
 # Hi there! I'm Farabi 👋
 
-I am a **Medical Technologist (Radiology & Imaging)** by profession and a **passionate developer** by curiosity. I love exploring the intersection of healthcare, decentralized technologies (Web3), and digital storytelling.
+I am  a **passionate developer** by curiosity. I love exploring the intersection of healthcare, decentralized technologies (Web3), and digital storytelling.
 
 ### 🚀 About Me
 - 🏥 **Professional:** Working in Radiology & Imaging, helping bring precision to healthcare diagnostics.
